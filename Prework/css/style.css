@@ -1,0 +1,26 @@
+body{
+		background-color: blue;
+		color: orange;
+
+}
+nav{
+		margin: 0;
+		height: 30px;
+		width: 100%
+		background-color: gray;
+		padding: 20px 20px;
+		text-decoration: none;
+}
+
+ul{
+		float: left;
+		list-style: none;
+		padding: 0px;
+		display: block;
+		text-decoration: none;
+		
+}
+h1{
+	text-align: center;
+
+}
